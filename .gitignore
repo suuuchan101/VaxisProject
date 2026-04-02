@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+dist/
+*.pyc
+*.pyo
+__pycache__/
+
+# Zip / packages (generated)
+IsekaiAssetStudio_*.zip
+
+# Environment
+.env
+*.env
+
+# Unity build artifacts
+*.meta
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+
+# OS
+.DS_Store
+Thumbs.db
