@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+*.tmp
+vaxis_gen_*/
+vaxis_imggen_*/
+vaxis_triposr_*/
+vaxis_tripo3d_*/
